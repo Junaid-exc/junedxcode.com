@@ -368,7 +368,7 @@ transition: 0.7s linear;
 .cursor-dot img{
    width: 35px;
   height: 70px;
-  transition: all 0.12s ease;
+  transition: all 0.5s all;
 }
 
 
