@@ -121,7 +121,7 @@ document.querySelectorAll("a, button, .hoverable").forEach(el => {
    cursorRing.style.width = "50px"
    SharimganImg.style.width = "50px"
    SharimganImg.style.height = "40px"
-   SharimganImg.src ="/public/assts/zif.gif"
+   SharimganImg.src ="/assts/zif.gif"
 
    cursorRing.style.height = "90px"
   });
@@ -130,7 +130,7 @@ document.querySelectorAll("a, button, .hoverable").forEach(el => {
     SharimganImg.style.width = "35px"
     cursorRing.style.height = "45px"
     SharimganImg.style.height = "70px"
-    SharimganImg.src ="/public/assts/normal.png"
+    SharimganImg.src ="/assts/normal.png"
    
   });
 });
