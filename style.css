@@ -613,6 +613,14 @@ transition: 0.7s linear;
      
      
      }
+  body{
+    cursor: default;
+    
+  }
+  .cursor-dot{
+    display: none;
+  }
+  
      .p1 h2{
       font-size: 20px;
      
